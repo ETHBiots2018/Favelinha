@@ -67,6 +67,17 @@ poll.
 We can add Choices to the poll.
 
 
+## OUR TEAM
+
+
+Leticia Cavalcanti
+Natasha Catunda
+Michele Piccolini
+Emanuel Longa
+Ricardo Stirnimann
+David Vittori
+
+
 
 
 
