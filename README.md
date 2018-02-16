@@ -71,10 +71,15 @@ We can add Choices to the poll.
 
 
 Leticia Cavalcanti
+
 Natasha Catunda
+
 Michele Piccolini
-Emanuel Longa
+
+Emmanuel Longa
+
 Ricardo Stirnimann
+
 David Vittori
 
 
